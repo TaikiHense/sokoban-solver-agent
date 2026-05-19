@@ -36,7 +36,7 @@ search strategies.
 
 ## Demonstration of Functionality
 - Unsolved warehouse
-![Unsolved warehouse](assets/unsolved.png)
+![Unsolved warehouse](assets/Unsolved.png)
 
 - Solved warehouse
-![Solved warehouse](assets/solved.png)
+![Solved warehouse](assets/Solved.png)
