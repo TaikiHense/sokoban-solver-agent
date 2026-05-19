@@ -33,3 +33,10 @@ of three.
 Successfully developed an agent capable of solving Sokoban puzzles 
 of varying difficulty, demonstrating effective application of AI 
 search strategies.
+
+## Demonstration of Functionality
+- Unsolved warehouse
+![Unsolved warehouse](assets/unsolved.png)
+
+- Solved warehouse
+![Solved warehouse](assets/solved.png)
